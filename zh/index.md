@@ -1,3 +1,2 @@
 # R1cebucket
----
-## Hello
+## 你好
